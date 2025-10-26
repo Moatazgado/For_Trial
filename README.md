@@ -1,2 +1,2 @@
 # myrepo  
-My primary repository to upload my latest done tasks.
+My primary repository for uploading my latest completed tasks.
