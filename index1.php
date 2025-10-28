@@ -6,8 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <form action-"index1.php" method="get">
-      name:<input type="text" name="txt">
+    <form action-"index2.php" method="post">
+      name:<input type="text" name="txt1">
       <br>
       password:<input type="password" name="pass">
       <input type="submit" value="submit">
@@ -15,6 +15,3 @@
     </form> 
 </body>
 </html>
-
-
-
